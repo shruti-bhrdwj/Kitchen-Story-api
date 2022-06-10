@@ -1,10 +1,10 @@
-package com.dell.webservice;
+package com.kitchenStory;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaFsdPhase4AssessmentEcommerceKitchenStoryApplicationTests {
+class KitchenStoryApplicationTests {
 
 	@Test
 	void contextLoads() {
